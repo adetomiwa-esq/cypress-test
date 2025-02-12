@@ -1,7 +1,14 @@
 {
-    "users": [
-      { "username": "user1", "password": "pass123" },
-      { "username": "user2", "password": "pass456" },
-      { "username": "user3", "password": "pass789" }
-    ]
+  "users": [
+    {
+      "email": "daniel@gmail.com",
+      "username": "danny",
+      "password": "onetruecraft"
+    },
+    {
+      "email": "mike@gmail.com",
+      "username": "micky",
+      "password": "mindgame"
+    }
+  ]
 }
